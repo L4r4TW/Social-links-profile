@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/static-social-links-profile-1sf8M3R6mk)
+- Live Site URL: [GitHub Pages Live Site URL](https://l4r4tw.github.io/Social-links-profile/)
 
 ## My process
 
